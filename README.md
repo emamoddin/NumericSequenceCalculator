@@ -10,4 +10,7 @@ Four types of sequence will be generated on successful execution.
 
 TODO
 ----
-Generate Readme file automatically based on XML comments.
+1. Generate Readme file automatically based on XML comments.
+2. Implement OAuth2.0 security for authorization.
+3. Implement logging.
+4. Implement Api documentation with swagger.
